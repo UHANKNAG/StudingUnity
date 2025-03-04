@@ -34,12 +34,15 @@ Karting Microgame
     Project에 있는 GameObject를 Scene으로 불러옴
 
 기본 동작과 단축키
-  Hierarchy 창에서 오브젝트를 선택하고 'F'키를 누르면 게임 오브젝트에 맞춰 확대가 됨!
+  Hierarchy 창에서 오브젝트를 선택하고 'F'키를 누르면 게임 오브젝트에 맞춰 확대가 됨! 또는 Hierarchy 창 내 오브젝트 더블 클릭
   Move Tool: 'W'키 또는 Scene 창 오른쪽 위 두 번째 버튼으로 오브젝트 이동 가능
   Alt + 회전 또는 마우스 우클릭으로 화면 회전
-  'Q' 눌러서 화면 움직이기 가능
+  휠 드래그로 화면 확대 및 축소
+  마우스 좌클릭으로 Scene 창 내의 오브젝트 선택 가능
+  'Q' 또는 마우스 휠 눌러서 화면 움직이기 가능
   'E' 또는 Scene 창 오른쪽 위 세 번째 버튼으로 오브젝트 회전 가능
   'R' 또는 Scene 창 오른쪽 위 세 번째 버튼으로 오브젝트 크기 조절 가능
+  Hierarchy 창 내의 게임 오브젝트 선택 후 Ctrl + D 오브젝트 복제
 
 Build & Publish
   Build
@@ -48,4 +51,11 @@ Build & Publish
   Publish
     App의 경우 완성된 프로그램을 공개하여 올린다는 의미
     출판을 의미함
+
+  Publish > WebGL > Get Start > Build and Publish
+    WebGL을 Web으로 올리기 위해 Project로 전환하는 과정
+    온라인으로 보내 주는 과정
+    두 가지가 진행됨
+
+  Bulid and Publish가 끝나면 Unity Play 사이트에 업로드가 가능하고, 다른 사람에게 링크를 공유하여 프로젝트를 보일 수 있다.
 
