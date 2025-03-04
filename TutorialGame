@@ -13,3 +13,14 @@ Karting Microgame
 레이아웃 및 창 구성
   Hierarchy (계층 창)
     게임 오브젝트를 나타냄 (계층 창 내에 있는 것은 전부 게임 오브젝트)
+    GameObject: Hierarchy에 있어서 Scene View에 나타나는 모든 것들
+    Unity에서의 Object는 거의 모든 것을 의미한
+
+  Inspector (정보 창)
+    게임 오브젝트를 선택할 때마다 Inspector 탭 변경
+    Object마다 가지고 있는 각종 설정을 조절할 수 있는 창
+    우리가 만든 게임 오브젝트에 대한 다양한 정보를 나타내는 창
+
+  Project (자원 창)
+    Unity에 쓰이는 다양한 자원들을 관리하는 창
+  
