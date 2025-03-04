@@ -16,7 +16,7 @@ Karting Microgame
 
   GameObject (물체)
     Hierarchy에 있어서 Scene View에 나타나는 모든 것들
-    Unity에서의 Object는 거의 모든 것을 의미한
+    Unity에서의 Object는 거의 모든 것을 의미한다
 
   Inspector (정보 창)
     게임 오브젝트를 선택할 때마다 Inspector 탭 변경
@@ -25,4 +25,27 @@ Karting Microgame
 
   Project (자원 창)
     Unity에 쓰이는 다양한 자원들을 관리하는 창
-    Project와 관련된 모든 파일(Image, Script 등)이 표시되며, 필요 시 탐색하거나 찾을 수 있는 
+    Project와 관련된 모든 파일(Image, Script 등)이 표시되며, 필요 시 탐색하거나 찾을 수 있는 창
+
+  Material (소재, 재료)
+    어떤 물체의 재질, 색깔 등을 전체적으로 관리하는 요소
+
+  Prefab (프리팹)
+    Project에 있는 GameObject를 Scene으로 불러옴
+
+기본 동작과 단축키
+  Hierarchy 창에서 오브젝트를 선택하고 'F'키를 누르면 게임 오브젝트에 맞춰 확대가 됨!
+  Move Tool: 'W'키 또는 Scene 창 오른쪽 위 두 번째 버튼으로 오브젝트 이동 가능
+  Alt + 회전 또는 마우스 우클릭으로 화면 회전
+  'Q' 눌러서 화면 움직이기 가능
+  'E' 또는 Scene 창 오른쪽 위 세 번째 버튼으로 오브젝트 회전 가능
+  'R' 또는 Scene 창 오른쪽 위 세 번째 버튼으로 오브젝트 크기 조절 가능
+
+Build & Publish
+  Build
+    프로젝트를 완성했다면 그것을 'exe', 'APK' 또는 공유할 수 있는 확장자 형태로 전달해야 함
+    Windows나 Mac 또는 휴대폰에서 실행할 수 있도록 만드는 것을 Build(빌드)라 함
+  Publish
+    App의 경우 완성된 프로그램을 공개하여 올린다는 의미
+    출판을 의미함
+
