@@ -58,4 +58,8 @@ Build & Publish
     두 가지가 진행됨
 
   Bulid and Publish가 끝나면 Unity Play 사이트에 업로드가 가능하고, 다른 사람에게 링크를 공유하여 프로젝트를 보일 수 있다.
-
+  
++ WebGL이란?
+    Web Graphics Library의 약자로 웹상에서 2D 및 3D 그래픽을 렌더링하기 위한 로우 레벨 Javascript API다.
+    브라우저 엔진에 내장된 HTML5 Canvas 요소 위에 그려진다.
+    웹 브라우저에 내장되어 실행됨.
