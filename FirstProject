@@ -13,3 +13,6 @@ Unity는 3D Object Tool이기 때문에 좌표계 기반으로 움직일 수 있
     > Cube 내의 Sphere Object를 생성하였더니, Cube의 Scale 값은 (1, 4, 1)이었지만, Sphere Scale 값은 (1, 1, 1)
     > Position, Rotation, Scale 모두 적용됨
   부모 Object의 위치나 크기를 변경하면 자식 Object도 함께 변경
+
+카메라 위치 조정 단축키
+   Ctrl + Shift + F / Cmd + shift + F
