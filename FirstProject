@@ -1,1 +1,15 @@
+Unity 첫 Project 만들기
 
+Hierarchy
+   Main Camera: Scene View(촬영장)에서 Main Camera가 비추는 곳을 Game Scene에서 보여 줌
+   Directional Light
+
+Unity는 3D Object Tool이기 때문에 좌표계 기반으로 움직일 수 있음
+
+자식 Object
+  Game Object 하위에 새로운 Game Object를 생성하게 되면 자식 Object가 됨
+  '부모 Object'의 좌표 크기 값을 따른다.
+  자식 Object는 부모 Object의 상대좌표 위치를 따라 결정된다
+    > Cube 내의 Sphere Object를 생성하였더니, Cube의 Scale 값은 (1, 4, 1)이었지만, Sphere Scale 값은 (1, 1, 1)
+    > Position, Rotation, Scale 모두 적용됨
+  부모 Object의 위치나 크기를 변경하면 자식 Object도 함께 변경
