@@ -23,3 +23,9 @@ Component
 Property (프로퍼티)
    Inspector에서 편집할 수 있는 Component 설정 및 옵션
    Rigidbody Component 안에 있는 줄 하나하나가 Property
+
+Material (소재)
+   물체의 재질, 색깔, 모든 것을 담당
+   Physic Material: 재질 변경
+      > Physic Material에서 Bounciness를 통해 튀어오름 적용 가능 
+         입사각과 반사각으로... 최대는 1
