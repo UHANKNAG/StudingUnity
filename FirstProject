@@ -16,3 +16,10 @@ Unity는 3D Object Tool이기 때문에 좌표계 기반으로 움직일 수 있
 
 카메라 위치 조정 단축키
    Ctrl + Shift + F / Cmd + shift + F
+
+Component
+   Game에서 Object와 동작에 관한 기본 구성요소이자 GameObject의 GameObject의 Inspector의 각 단일 탭
+
+Property (프로퍼티)
+   Inspector에서 편집할 수 있는 Component 설정 및 옵션
+   Rigidbody Component 안에 있는 줄 하나하나가 Property
