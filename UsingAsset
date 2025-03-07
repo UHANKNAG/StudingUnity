@@ -18,3 +18,13 @@ Mixamo
   3D 모델의 확장자를 의미
 
 Y bot Animation Type을 Humanoid로 변경하고 Apply
+
+Animation Type
+  Legacy  (이젠 거의 안 쓰임)
+    모션 제어에 한계가 있어 현재는 사용되지 않음
+  Generic 
+    뼈대 구조가 유연하여 다양한 형태의 모션 제작이 가능
+    인간 이외의 형태에 주로 사용됨
+  Humanoid
+    인간의 골격을 기초로 하는 모델
+    인간의 관절 구조를 모사하여 자연스러운 모션 제작 가능
