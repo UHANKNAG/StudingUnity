@@ -28,3 +28,10 @@ Animation Type
   Humanoid
     인간의 골격을 기초로 하는 모델
     인간의 관절 구조를 모사하여 자연스러운 모션 제작 가능
+
+
+3D Animation 춤추게 하기
+  Animation Controller
+    Animation을 끌어다 놓으면 주황색 Clip 생성
+    > 주황색 Clip: 해당 모델에서 처음으로 실행되는 기본 Animation Clip
+아진짜오늘더이상은안되겠다춤추게하기2:46
