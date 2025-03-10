@@ -47,3 +47,6 @@ Animation Type
 
 키보드로 Ybot 동작시키기
   Animator > Parameters > '+' > Trigger > 동작 이름 설정
+  > C# 코드 작성 (Dance.cs) > 동작으로 넘어가는 화살표 클릭
+  > Conditions의 '+' > 해당 동작에 맞는 동작명 선택
+  > Ybot Inspector에 Dance.cs 넣기
