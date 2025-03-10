@@ -44,3 +44,6 @@ Animation Type
 자동으로 끝나야 되는 동작들에 사용하는 키워
   >> Has Exit Time 활성화: 해당 동작을 끝내고 다음 동작으로 이동
   >> Has Exit Time 비활성화: 즉시 동작을 전환
+
+키보드로 Ybot 동작시키기
+  Animator > Parameters > '+' > Trigger > 동작 이름 설정
