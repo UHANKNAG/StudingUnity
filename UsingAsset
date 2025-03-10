@@ -17,7 +17,10 @@ Mixamo
 .FBX
   3D 모델의 확장자를 의미
 
-Y bot Animation Type을 Humanoid로 변경하고 Apply
+Y bot Animation Type을 Humanoid로 변경하고 
+Avatar Definition을 Copy From Other Avatar
+Source는 Ybot Avatar
+Apply
 
 Animation Type
   Legacy  (이젠 거의 안 쓰임)
@@ -34,5 +37,3 @@ Animation Type
   Animation Controller
     Animation을 끌어다 놓으면 주황색 Clip 생성
     > 주황색 Clip: 해당 모델에서 처음으로 실행되는 기본 Animation Clip
-
-아진짜오늘더이상은안되겠다춤추게하기2:46
