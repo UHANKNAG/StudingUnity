@@ -31,9 +31,16 @@ Animation Type
   Humanoid
     인간의 골격을 기초로 하는 모델
     인간의 관절 구조를 모사하여 자연스러운 모션 제작 가능
-
-
+ 
 3D Animation 춤추게 하기
   Animation Controller
     Animation을 끌어다 놓으면 주황색 Clip 생성
     > 주황색 Clip: 해당 모델에서 처음으로 실행되는 기본 Animation Clip
+
+여러 동작을 넣고, 연결할 때
+  Idle 우클릭, Make Transition으로 다음 동작과 연결되게
+  연결된 동작에서 끝이 나지 않도록 'Hasd Exit Time' 체크 해제
+
+자동으로 끝나야 되는 동작들에 사용하는 키워
+  >> Has Exit Time 활성화: 해당 동작을 끝내고 다음 동작으로 이동
+  >> Has Exit Time 비활성화: 즉시 동작을 전환
